@@ -1,7 +1,7 @@
 class Main {
   public static void main(String[] args) {
-    int parzysta=0;
-      for(int i=50;parzysta<=i;parzysta++)
+    int parzysta=1;
+      for(int i=49;parzysta<=i;parzysta++)
         {
           if(parzysta%2==0)
             System.out.println(parzysta);
